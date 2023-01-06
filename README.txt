@@ -1,11 +1,5 @@
-Welcome to Group 1s Scrabble!
+Welcome to GUI Scrabble!
 
-Group Members :
-
-Yousif Alsendi
-Christopher Maber
-Humam Khalil
-Hiroto Kombe
 
 Rules of GUI scrabble:
 
